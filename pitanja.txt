@@ -1,0 +1,6 @@
+- zasto bakreni i zasto opticki kabel na routeru
+- CGE i CFG
+- koji je root
+- sto je dobro kod dinamicke (gusi mrezu, moze odabrati pogresan put) a sto kod staticke adrese (imas kontrolu nad adresama)
+- sto je RIP a sto je ... onaj drugi?
+- sto je router
